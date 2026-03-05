@@ -122,11 +122,11 @@ Similar total revenue can arise from fundamentally different behaviors—high fr
 ![Segment Strategy Framework](images/segment_strategy_framework.png)
 _Figure 3: Segment strategy framework showing customer count, revenue contribution, CLV, churn risk, and recommended strategic actions. Resource allocation must be value-weighted, not volume-driven._
 
-| **Initiative**         | **Segment**          | **Opportunity** | **Rationale** |
-| ---------------------- | -------------------  | --------------- | ------------- |
-| **Win-back campaigns** | At-Risk (High Value) |     **£250K**       | 30% reactivation rate on £1.0M At-Risk revenue|
-| At-Risk (High Value) | High      | Very High  | Aggressive win-back offers |
-| Potential Loyalists  | Medium    | Medium     | Conversion incentives |
-| Loyal Customers      | Medium    | Low        | Volume incentives |
-| New Customers        | Low       | Low        | Onboarding nudges |
-| Hibernating          | Very Low  | Very High  | Minimal spend |
+| **Initiative**             | **Segment**          | **Opportunity** | **Rationale** |
+| ----------------------     | -------------------  | --------------- | ------------- |
+| **Win-back campaigns**     | At-Risk (High Value) | **£250K**       | 30% reactivation rate on £1.0M At-Risk revenue |
+| **Margin protection**      | Champions            | **£545K**       | 5% margin improvement via non-price loyalty (e.g., VIP perks, early access) |
+| **Frequency conversion**   | Potiential Loyalists | **£500K**       | 20% frequency lift through targeted incentives |
+| **Volume growth**          | Loyal Customers      | **£150K**       | Basket size and repurchase optimization |
+| **Activation**             | New Customers        | TBD             | Second-purchase conversion to establish habits |
+| **Cost optimization**      | Hibernating          | Minimal         | Low CLV (£611) makes aggressive spend unjustified |
