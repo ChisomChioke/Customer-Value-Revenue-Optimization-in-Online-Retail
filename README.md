@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Project Background](#project-background)
-- [Objectives](#objectives)
+- [Business Objective](#business-objective)
 - [Data Overview](#data-overview)
 - [Analytical Approach](#analytical-approach)
 - [Executive Summary of Results](#executive-summary-of-results)
@@ -24,4 +24,18 @@ In e-commerce and online retail, sustainable growth depends not only on sales vo
 
 This project analyzes **1.06M+ transactions** from a UK-based online gift retailer (2009-2011) to build an end-to-end customer analytics framework that identifies **£1.45M in revenue preservation and growth opportunities** through segment-specific pricing and retention strategies. The analysis demonstrates how to shift resource allocation from volume-driven to value-weighted approaches using data-driven customer segmentation and lifetime value modeling.
 
-All code, methodology, and detailed analysis can be found in the Jupyter notebook: [GitHub Repository Link](). A one-page summary is 
+All code, methodology, and detailed analysis can be found in the Jupyter notebook: [GitHub Repository Link](https://github.com/ChisomChioke/Customer-Value-Revenue-Optimization-in-Online-Retail/blob/main/Customer_Value_%26_Revenue_Optimization.ipynb). A one-page summary is contained in this document: [1-page Summary](https://drive.google.com/file/d/1wCHCl68QhohyY__U6K_cSh8gBmKT_qJF/view)
+
+## Business Objective
+Most customer engagement strategies apply uniform pricing, discounts, and retention spending across the entire customer base, ignoring that customer value is highly concentrated and unevenly exposed to churn risk. This misallocates resources by over-investing in low-value segments while under-protecting high-value customers, ultimately eroding both margin and long-term profitability.
+
+**This project addresses three critical business questions:**
+
+1. **Value Identification:** Which customers generate disproportionate value, and how is that value created (frequency vs. spend)?
+
+2. **Churn Risk Assessment:** Which high-value customers face the greatest attrition risk, and what is the revenue exposure?
+
+3. **Resource Allocation:** How should pricing, discounts, and retention investments be differentiated by customer segment to maximize ROI?
+
+The analysis constructs a framework linking **segmentation → lifetime value → pricing strategy**, enabling efficient allocation of retention spend and pricing flexibility aligned with customer behavior rather than arbitrary rules.
+
