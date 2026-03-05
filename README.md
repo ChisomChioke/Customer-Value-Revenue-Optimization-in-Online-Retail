@@ -124,7 +124,7 @@ _Figure 3: Segment strategy framework showing customer count, revenue contributi
 
 | **Initiative**         | **Segment**          | **Opportunity** | **Rationale** |
 | ---------------------- | -------------------  | --------------- | ------------- |
-| **Win-back campaigns** | At-Risk (High Value) | **£250K**       | 30% reactivation rate on £1.0M At-Risk revenue|
+| **Win-back campaigns** | At-Risk (High Value) |     **£250K**       | 30% reactivation rate on £1.0M At-Risk revenue|
 | At-Risk (High Value) | High      | Very High  | Aggressive win-back offers |
 | Potential Loyalists  | Medium    | Medium     | Conversion incentives |
 | Loyal Customers      | Medium    | Low        | Volume incentives |
