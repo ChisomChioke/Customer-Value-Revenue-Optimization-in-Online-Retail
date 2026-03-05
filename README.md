@@ -224,49 +224,57 @@ Based on the analysis, we recommend the following prioritized interventions:
 - Allow natural attrition
 - Reallocate marketing budget to Priorities 1-4 (higher-ROI segments)
 
-Expected Impact: <£100K recovery potential; primary value is resource reallocation to segments with 5-10x better ROI
+**Expected Impact:** <£100K recovery potential; primary value is **resource reallocation** to segments with 5-10x better ROI
 
-Implementation Considerations
-Technical Requirements:
+## Implementation Considerations
 
-Automated monthly RFM segmentation with churn alerts for customers exceeding 90-day inactivity
-Campaign attribution tracking to measure revenue recovery by intervention
-A/B testing infrastructure for segment-specific pricing strategies
-CLV monitoring dashboards tracking realized vs. predicted lifetime value
+### Technical Requirements:
 
-Implementation Phases:
-Phase 1 (Weeks 1-4): Foundation & Quick Wins
+- Automated monthly RFM segmentation with churn alerts for customers exceeding 90-day inactivity
+- Campaign attribution tracking to measure revenue recovery by intervention
+- A/B testing infrastructure for segment-specific pricing strategies
+- CLV monitoring dashboards tracking realized vs. predicted lifetime value
 
-Implement monthly RFM segmentation automation (SQL/Python scripts integrated with CRM)
-Launch At-Risk win-back campaign (Priority 1)
-Audit Champions discount exposure and begin margin protection rollout (Priority 2)
+## Implementation Phases:
 
-Phase 2 (Weeks 5-12): Expansion & Testing
+### Phase 1: Foundation & Quick Wins
 
-Deploy Potential Loyalists frequency conversion program (Priority 3)
-Implement A/B testing infrastructure for segment-specific pricing strategies
-Launch Loyal Customers volume growth initiatives (Priority 4)
+- Implement monthly RFM segmentation automation (SQL/Python scripts integrated with CRM)
+- Launch At-Risk win-back campaign (Priority 1)
+- Audit Champions discount exposure and begin margin protection rollout (Priority 2)
 
-Phase 3 (Weeks 13-24): Optimization & Scaling
+### Phase 2: Expansion & Testing
 
-Refine pricing strategies based on A/B test results
-Develop predictive survival model for forward-looking CLV (replace historical proxy)
-Launch New Customer activation sequences (Priority 5)
-Implement CLV monitoring dashboards tracking realized vs. predicted lifetime value
+- Deploy Potential Loyalists frequency conversion program (Priority 3)
+- Implement A/B testing infrastructure for segment-specific pricing strategies
+- Launch Loyal Customers volume growth initiatives (Priority 4)
 
+### Phase 3: Optimization & Scaling
 
-Assumptions & Limitations
-Key Limitations:
-
-Historical CLV proxy rather than predictive model: CLV calculated using behavioral proxy (frequency × AOV × recency-adjusted retention) rather than survival-based probabilistic model. Future value may be over/understated for individual customers.
-No experimental price variation: Pricing strategy recommendations based on behavioral inference, not A/B testing. Elasticity and discount responsiveness should be validated through controlled experiments before full deployment.
-No cost/margin data: Profit optimization estimates (e.g., £545K Champions margin improvement) are directional and assume illustrative margins (10% baseline). Actual profitability depends on true unit economics.
-Static 90-day churn threshold: Churn definition may vary by product category, seasonality, or customer segment. More sophisticated approach would calibrate segment-specific thresholds.
-Time period (2009-2011): E-commerce dynamics may have changed significantly since 2011 (mobile commerce, social shopping, subscriptions). Validation with recent data recommended before major strategy shifts.
-No cross-segment migration modeling: Analysis assumes static segmentation but customers migrate between segments over time. Cohort retention analysis would provide insight into engagement decay patterns.
+- Refine pricing strategies based on A/B test results
+- Develop predictive survival model for forward-looking CLV (replace historical proxy)
+- Launch New Customer activation sequences (Priority 5)
+- Implement CLV monitoring dashboards tracking realized vs. predicted lifetime value
 
 
-Future Work
+## Assumptions & Limitations
+
+### Key Limitations:
+
+**1. Historical CLV proxy rather than predictive model:** CLV calculated using behavioral proxy (frequency × AOV × recency-adjusted retention) rather than survival-based probabilistic model. Future value may be over/understated for individual customers.
+
+**2. No experimental price variation:** Pricing strategy recommendations based on behavioral inference, not A/B testing. Elasticity and discount responsiveness should be validated through controlled experiments before full deployment.
+
+**3. No cost/margin data:** Profit optimization estimates (e.g., £545K Champions margin improvement) are directional and assume illustrative margins (10% baseline). Actual profitability depends on true unit economics.
+
+**4. Static 90-day churn threshold:** Churn definition may vary by product category, seasonality, or customer segment. More sophisticated approach would calibrate segment-specific thresholds.
+
+**5. Time period (2009-2011):** E-commerce dynamics may have changed significantly since 2011 (mobile commerce, social shopping, subscriptions). Validation with recent data recommended before major strategy shifts.
+
+**6. No cross-segment migration modeling:** Analysis assumes static segmentation but customers migrate between segments over time. Cohort retention analysis would provide insight into engagement decay patterns.
+
+## Future Work
+
 The following enhancements would strengthen the analytical framework:
 
 Predictive CLV Modeling: Replace behavioral proxy with survival-based CLV models (e.g., Beta-Geometric/NBD) for probabilistic churn predictions and time-to-event forecasts
