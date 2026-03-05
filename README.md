@@ -58,26 +58,26 @@ The analysis constructs a framework linking **segmentation → lifetime value �
 
 The analysis follows a structured four-phase methodology:
 
-**Phase 1: Exploratory Analysis**
+### Phase 1: Exploratory Analysis
 
 - Revenue distribution and concentration patterns (Pareto analysis)
 - Customer-level metrics: total revenue, order frequency, average order value
 - Temporal patterns and purchasing behavior
 
-**Phase 2: RFM Segmentation**
+### Phase 2: RFM Segmentation
 
 - **Recency:** Days since last purchase (proxy for churn risk)
 - **Frequency:** Total number of orders (engagement level)
 - **Monetary:** Total revenue generated (historical value)
 - Created 6 behavioral segments: Champions, Potential Loyalists, Loyal Customers, At-Risk (High Value), New Customers, Hibernating
 
-**Phase 3: Customer Lifetime Value (CLV) Estimation**
+### Phase 3: Customer Lifetime Value (CLV) Estimation
 
 - Constructed behavioral CLV proxy using frequency, AOV, and recency-adjusted retention
 - Segment-level CLV aggregation to identify value concentration
 - Churn exposure assessment (90-day inactivity threshold)
 
-**Phase 4: Pricing Strategy Design**
+### Phase 4: Pricing Strategy Design
 
 - Segment-specific pricing recommendations aligned with CLV and churn risk
 - ROI framework comparing retention vs. acquisition efficiency
@@ -145,7 +145,7 @@ Based on the analysis, we recommend the following prioritized interventions:
 
 **Objective:** Prevent churn among 268 high-value customers representing £1.0M revenue (6% of total) with 100% churn exposure.
 
-**Actions:**
+### Actions:
 
 - Deploy personalized, time-sensitive win-back offers (e.g., "We miss you—20% off your next order, valid for 14 days")
 - Direct outreach to top 50 At-Risk customers via email/phone
@@ -157,9 +157,11 @@ Based on the analysis, we recommend the following prioritized interventions:
 
 ---
 
-Priority 2: Champions Margin Protection Program
-Objective: Protect profitability among 875 Champions generating £10.9M (62% of revenue) by replacing price-based promotions with non-monetary loyalty mechanisms.
-Actions:
+### Priority 2: Champions Margin Protection Program
+
+**Objective:** Protect profitability among 875 Champions generating £10.9M (62% of revenue) by replacing price-based promotions with non-monetary loyalty mechanisms.
+
+### Actions:
 
 Audit current discount exposure for Champions segment
 Replace price discounts with VIP benefits: early access to new products, exclusive events, priority customer service
