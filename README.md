@@ -93,8 +93,8 @@ The analysis follows a structured four-phase methodology:
 - Top 20% of customers drive 77% of total revenue
 - Bottom 50% contribute only 6% of revenue
 
-![Pareto Analysis](https://github.com/images/pareto_analysis.png)
-
+![Pareto Analysis](images/pareto_analysis.png)
+_Figure 1: Pareto analysis reveals that 23% of customers generate 80% of revenue, validating the need for targeted, value-weighted retention strategies._
 
 Figure 1: Pareto analysis reveals that 23% of customers generate 80% of revenue, validating the need for targeted, value-weighted retention strategies.
 2. Revenue Share vs. Customer Count Imbalance
