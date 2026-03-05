@@ -188,7 +188,7 @@ Based on the analysis, we recommend the following prioritized interventions:
 
 ### Priority 4: Loyal Customers Volume Growth
 
-**Objective:*** Maintain engagement and grow basket size among 658 Loyal Customers contributing £3.5M (20% of revenue).
+**Objective:** Maintain engagement and grow basket size among 658 Loyal Customers contributing £3.5M (20% of revenue).
 
 **Actions:**
 
@@ -277,22 +277,24 @@ Based on the analysis, we recommend the following prioritized interventions:
 
 The following enhancements would strengthen the analytical framework:
 
-Predictive CLV Modeling: Replace behavioral proxy with survival-based CLV models (e.g., Beta-Geometric/NBD) for probabilistic churn predictions and time-to-event forecasts
-A/B Testing Infrastructure: Implement controlled experiments to measure causal effects of pricing and retention tactics by segment
-Margin-Adjusted Optimization: Incorporate product-level margin data to optimize profit rather than revenue
-Cohort Retention Analysis: Model engagement decay patterns to identify early warning signals for segment migration (e.g., Loyal → At-Risk)
-Product Affinity & Bundling: Analyze cross-purchase patterns to inform personalized recommendations and category-level CLV drivers
-Real-Time Segmentation: Build streaming pipeline to enable immediate personalization (e.g., real-time next-best-offer during checkout)
+**1. Predictive CLV Modeling:** Replace behavioral proxy with survival-based CLV models (e.g., Beta-Geometric/NBD) for probabilistic churn predictions and time-to-event forecasts
 
+**2. A/B Testing Infrastructure:** Implement controlled experiments to measure causal effects of pricing and retention tactics by segment
 
-Technologies Used
+**3. Margin-Adjusted Optimization:** Incorporate product-level margin data to optimize profit rather than revenue
 
-Python — Data processing, analysis, and modeling
+**4. Cohort Retention Analysis:** Model engagement decay patterns to identify early warning signals for segment migration (e.g., Loyal → At-Risk)
 
-Pandas / NumPy — Data manipulation and aggregation
-Matplotlib / Seaborn — Visualization and exploratory analysis
-Scikit-learn — RFM quantile binning and segmentation logic
+**5. Product Affinity & Bundling:** Analyze cross-purchase patterns to inform personalized recommendations and category-level CLV drivers
 
+**6. Real-Time Segmentation:** Build streaming pipeline to enable immediate personalization (e.g., real-time next-best-offer during checkout)
 
-Jupyter Notebook — End-to-end reproducible analysis and documentation
-SQL — Data extraction and transformation (production deployment)
+## Technologies Used
+
+- Python — Data processing, analysis, and modeling
+    - Pandas / NumPy — Data manipulation and aggregation
+    - Matplotlib / Seaborn — Visualization and exploratory analysis
+    - Scikit-learn — RFM quantile binning and segmentation logic
+
+- Jupyter Notebook — End-to-end reproducible analysis and documentation
+- SQL — Data extraction and transformation (production deployment)
