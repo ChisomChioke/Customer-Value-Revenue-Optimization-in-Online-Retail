@@ -152,7 +152,6 @@ Based on the analysis, we recommend the following prioritized interventions:
 - A/B test discount depth (15% vs. 20% vs. 25%) to optimize response rate vs. margin impact
 
 **Expected Impact:** 30% reactivation rate = **£250K net revenue recovery**
-
 **ROI Rationale:** Reactivating one At-Risk customer (£3,854 avg value) preserves 3.8x more revenue than acquiring one new customer (£1,010), demonstrating superior efficiency of value-targeted retention over volume-based acquisition.
 
 ---
@@ -184,35 +183,46 @@ Based on the analysis, we recommend the following prioritized interventions:
 
 **Expected Impact:** 20% frequency lift = **£500K incremental revenue**
 **Strategic Value:** Potential Loyalists represent the largest segment (26% of customers) with proven purchasing behavior and clear upside. Converting even 20% into Loyal/Champions significantly improves portfolio mix.
+
 ---
-Priority 4: Loyal Customers Volume Growth
-Objective: Maintain engagement and grow basket size among 658 Loyal Customers contributing £3.5M (20% of revenue).
-Actions:
 
-Volume-based incentives: threshold rewards ("Spend £X, save Y"), bundle offers
-Subscription programs for repeat-purchase items (auto-replenishment)
-Loyalty milestones with escalating rewards
+### Priority 4: Loyal Customers Volume Growth
 
-Expected Impact: 15% revenue lift = £150K incremental revenue
-Risk Monitoring: 48% of Loyal Customers show moderate churn risk (98 days recency). Proactive engagement prevents migration to At-Risk segment.
+**Objective:*** Maintain engagement and grow basket size among 658 Loyal Customers contributing £3.5M (20% of revenue).
 
-Priority 5: New Customer Activation
-Objective: Establish purchasing habits among 951 New Customers before they churn or become price-sensitive.
-Actions:
+**Actions:**
 
-Automated post-purchase engagement sequences (thank you email, product care tips, complementary product suggestions)
-Moderate second-purchase incentive (e.g., 10% off next order within 30 days)
-Avoid aggressive discounting that trains price sensitivity
+- Volume-based incentives: threshold rewards ("Spend £X, save Y"), bundle offers
+- Subscription programs for repeat-purchase items (auto-replenishment)
+- Loyalty milestones with escalating rewards
 
-Expected Impact: 25% improvement in second-purchase activation rate = long-term CLV uplift (quantification requires cohort tracking)
+**Expected Impact:** 15% revenue lift = **£150K incremental revenue**
+**Risk Monitoring:** 48% of Loyal Customers show moderate churn risk (98 days recency). Proactive engagement prevents migration to At-Risk segment.
 
-Priority 6: Hibernating Segment Cost Optimization
-Objective: Minimize resources allocated to 2,064 Hibernating customers (35% of base) contributing only £1.3M (7% of revenue) with £611 average CLV.
-Actions:
+---
 
-Limit to broad, low-cost email campaigns (quarterly newsletters, seasonal promotions)
-Allow natural attrition
-Reallocate marketing budget to Priorities 1-4 (higher-ROI segments)
+### Priority 5: New Customer Activation
+
+**Objective:** Establish purchasing habits among 951 New Customers before they churn or become price-sensitive.
+
+**Actions:**
+
+- Automated post-purchase engagement sequences (thank you email, product care tips, complementary product suggestions)
+- Moderate second-purchase incentive (e.g., 10% off next order within 30 days)
+- Avoid aggressive discounting that trains price sensitivity
+
+**Expected Impact:** 25% improvement in second-purchase activation rate = long-term CLV uplift (quantification requires cohort tracking)
+
+---
+
+### Priority 6: Hibernating Segment Cost Optimization
+
+**Objective:** Minimize resources allocated to 2,064 Hibernating customers (35% of base) contributing only £1.3M (7% of revenue) with £611 average CLV.
+
+**Actions:**
+- Limit to broad, low-cost email campaigns (quarterly newsletters, seasonal promotions)
+- Allow natural attrition
+- Reallocate marketing budget to Priorities 1-4 (higher-ROI segments)
 
 Expected Impact: <£100K recovery potential; primary value is resource reallocation to segments with 5-10x better ROI
 
