@@ -96,11 +96,13 @@ The analysis follows a structured four-phase methodology:
 ![Pareto Analysis](images/pareto_analysis.png)
 _Figure 1: Pareto analysis reveals that 23% of customers generate 80% of revenue, validating the need for targeted, value-weighted retention strategies._
 
-Figure 1: Pareto analysis reveals that 23% of customers generate 80% of revenue, validating the need for targeted, value-weighted retention strategies.
-2. Revenue Share vs. Customer Count Imbalance
+**2. Revenue Share vs. Customer Count Imbalance**
+
 Champions represent just 15% of the customer base but drive 62% of total revenue, while Hibernating customers account for 35% of customers but contribute only 7% of revenue—a 5:1 customer-to-value mismatch that would be invisible with uniform engagement strategies.
-Show Image
-Figure 2: Customer proportion vs. revenue contribution reveals extreme imbalance. Treating all customers equally would massively misallocate resources.
+
+![Customer Proportion vs. Revenue Contribution](images/customer_proportion_vs_revenue_contribution.png)
+_Figure 2: Customer proportion vs. revenue contribution reveals extreme imbalance. Treating all customers equally would massively misallocate resources._
+
 3. Customer Lifetime Value Varies 20x Across Segments
 Champions demonstrate 20x higher CLV (£12,494) than Hibernating customers (£611) through:
 
