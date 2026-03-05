@@ -35,6 +35,10 @@ Most customer engagement strategies apply uniform pricing, discounts, and retent
 
 2. **Churn Risk Assessment:** Which high-value customers face the greatest attrition risk, and what is the revenue exposure?
 
+3. **Resource Allocation:** How should pricing, discounts, and retention investments be differentiated by customer segment to maximize ROI?
+
+The analysis constructs a framework linking **segmentation → lifetime value → pricing strategy**, enabling efficient allocation of retention spend and pricing flexibility aligned with customer behavior rather than arbitrary rules.
+
 ## Data Overview
 
 **Dataset:** [Online Retail II dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii) from UCI Machine Learning Repository
@@ -50,7 +54,4 @@ Most customer engagement strategies apply uniform pricing, discounts, and retent
 - Aggregated line-items to customer-transaction level
 - Created RFM metrics for segmentation
 
-3. **Resource Allocation:** How should pricing, discounts, and retention investments be differentiated by customer segment to maximize ROI?
-
-The analysis constructs a framework linking **segmentation → lifetime value → pricing strategy**, enabling efficient allocation of retention spend and pricing flexibility aligned with customer behavior rather than arbitrary rules.
 
