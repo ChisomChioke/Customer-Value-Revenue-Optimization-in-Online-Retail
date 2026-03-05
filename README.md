@@ -38,7 +38,9 @@ Most customer engagement strategies apply uniform pricing, discounts, and retent
 ## Data Overview
 
 **Dataset:** [Online Retail II dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii) from UCI Machine Learning Repository
+
 **Coverage:** 1,067,371 transaction records | December 2009 - December 2011 | 41 countries
+
 **After cleaning:** 805,549 valid transactions from 5,942 unique customers
 
 **Data Preparation:**
