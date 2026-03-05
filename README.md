@@ -117,7 +117,7 @@ Similar total revenue can arise from fundamentally different behaviors—high fr
 ![Segment Strategy Framework](images/segment_strategy_framework.png)
 _Figure 3: Segment strategy framework showing customer count, revenue contribution, CLV, churn risk, and recommended strategic actions. Resource allocation must be value-weighted, not volume-driven._
 
-## Business Impact
+### Business Impact
 
 The analysis identifies **£1.45M+ in combined revenue preservation and incremental growth opportunities** through value-weighted retention and segment-specific pricing strategies:
 
