@@ -145,7 +145,7 @@ Based on the analysis, we recommend the following prioritized interventions:
 
 **Objective:** Prevent churn among 268 high-value customers representing £1.0M revenue (6% of total) with 100% churn exposure.
 
-### Actions:
+**Actions:**
 
 - Deploy personalized, time-sensitive win-back offers (e.g., "We miss you—20% off your next order, valid for 14 days")
 - Direct outreach to top 50 At-Risk customers via email/phone
@@ -161,26 +161,30 @@ Based on the analysis, we recommend the following prioritized interventions:
 
 **Objective:** Protect profitability among 875 Champions generating £10.9M (62% of revenue) by replacing price-based promotions with non-monetary loyalty mechanisms.
 
-### Actions:
+**Actions:**
 
-Audit current discount exposure for Champions segment
-Replace price discounts with VIP benefits: early access to new products, exclusive events, priority customer service
-Implement tiered recognition program (e.g., Champion, Platinum Champion)
+- Audit current discount exposure for Champions segment
+- Replace price discounts with VIP benefits: early access to new products, exclusive events, priority customer service
+- Implement tiered recognition program (e.g., Champion, Platinum Champion)
 
-Expected Impact: 5% margin improvement = £545K additional profit (assumes 10% baseline margin; illustrative)
-Risk Mitigation: Champions show minimal churn risk (18 days recency), making discounts unnecessary and margin-eroding. Non-price perks strengthen loyalty without sacrificing profitability.
+**Expected Impact:** 5% margin improvement = **£545K additional profit** (assumes 10% baseline margin; illustrative)
+**Risk Mitigation:** Champions show minimal churn risk (18 days recency), making discounts unnecessary and margin-eroding. Non-price perks strengthen loyalty without sacrificing profitability.
 
-Priority 3: Potential Loyalists Frequency Conversion
-Objective: Convert 1,532 moderately engaged customers (4.4 orders avg, 82 days recency) into higher-frequency purchasers.
-Actions:
+---
 
-Deploy frequency-building incentives: "Buy 3 times this month, get 15% off your next order"
-Personalized product recommendations based on purchase history
-Graduated loyalty tiers to gamify engagement
+### Priority 3: Potential Loyalists Frequency Conversion
 
-Expected Impact: 20% frequency lift = £500K incremental revenue
-Strategic Value: Potential Loyalists represent the largest segment (26% of customers) with proven purchasing behavior and clear upside. Converting even 20% into Loyal/Champions significantly improves portfolio mix.
+**Objective:** Convert 1,532 moderately engaged customers (4.4 orders avg, 82 days recency) into higher-frequency purchasers.
 
+**Actions:**
+
+- Deploy frequency-building incentives: "Buy 3 times this month, get 15% off your next order"
+- Personalized product recommendations based on purchase history
+- Graduated loyalty tiers to gamify engagement
+
+**Expected Impact:** 20% frequency lift = **£500K incremental revenue**
+**Strategic Value:** Potential Loyalists represent the largest segment (26% of customers) with proven purchasing behavior and clear upside. Converting even 20% into Loyal/Champions significantly improves portfolio mix.
+---
 Priority 4: Loyal Customers Volume Growth
 Objective: Maintain engagement and grow basket size among 658 Loyal Customers contributing £3.5M (20% of revenue).
 Actions:
