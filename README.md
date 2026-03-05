@@ -121,3 +121,12 @@ Similar total revenue can arise from fundamentally different behaviors—high fr
 
 ![Segment Strategy Framework](images/segment_strategy_framework.png)
 _Figure 3: Segment strategy framework showing customer count, revenue contribution, CLV, churn risk, and recommended strategic actions. Resource allocation must be value-weighted, not volume-driven._
+
+| Segment              | CLV       | Churn Risk | Pricing Implication   |
+| -------------------- | ----------| ---------- | --------------------- |
+| Champions            | Very High | Low        | Protect margin        |
+| At-Risk (High Value) | High      | Very High  | Aggressive win-back offers |
+| Potential Loyalists  | Medium    | Medium     | Conversion incentives |
+| Loyal Customers      | Medium    | Low        | Volume incentives |
+| New Customers        | Low       | Low        | Onboarding nudges |
+| Hibernating          | Very Low  | Very High  | Minimal spend |
